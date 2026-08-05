@@ -1,0 +1,6 @@
+Variant,Best Valid Accuracy,Best Valid Macro-F1,Training Time (min),Total Params
+Full PneumoXNet,0.836,0.8374,25.29,36809319
+w/o CBAM,0.8166,0.8197,23.65,36561413
+w/o MultiScaleFusion,0.8326,0.8351,23.13,32467047
+w/o AdaptiveFusion,0.8485,0.8426,22.92,30859111
+w/o ResidualEnhancement,0.8337,0.8341,22.42,18964327
